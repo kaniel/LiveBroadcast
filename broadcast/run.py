@@ -1,4 +1,4 @@
-from broadcast import create_app
+from live import create_app
 
 if __name__ == "__main__":
     from settings import DEV
